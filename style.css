@@ -1,7 +1,14 @@
-
-h1{
-    text-align: center;
+body{
+    margin: 0;
+    background-color: #E8f9fc;
 }
-h2{
+.image1{
+    image-rendering: auto;
     text-align: center;
+    padding: 10;
+
+}
+h3{
+    font-size: 120px;
+    text-indent: 0px;
 }
